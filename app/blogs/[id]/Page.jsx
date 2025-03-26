@@ -56,7 +56,7 @@ const page = ({ params }) => {
         </div>
       </div>
     </div>
-    <div className="flex absolute my-0"><Footer /></div>
+    <Footer />
   </> : <></>
   )
 }

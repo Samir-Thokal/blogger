@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Page = () => {
+const Admin = () => {
 
   return (
     <div>
@@ -9,5 +9,5 @@ const Page = () => {
   )
 }
 
-export default Page
+export default Admin
 

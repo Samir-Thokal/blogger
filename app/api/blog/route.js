@@ -10,7 +10,6 @@ const LoadDB = async () => {
 
 LoadDB();
 
-
 // API Endpoint to get all blogs
 export async function GET(request) {
 
